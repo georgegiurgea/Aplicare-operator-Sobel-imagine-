@@ -1,0 +1,1 @@
+# Aplicare-operator-Sobel-imagine-
